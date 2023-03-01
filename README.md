@@ -2,7 +2,7 @@
 
 This is the spring web Rest Api deployed on AWS:
 
-* Entity
+* Entity [USER]
 
 Technology && Tools
 -------------------
