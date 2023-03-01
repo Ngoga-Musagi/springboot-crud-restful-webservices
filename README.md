@@ -3,6 +3,7 @@
 This is the spring web Rest Api deployed on AWS:
 
 * Entity [USER]
+* AWS API Link[http://springbootmysqlaws-env.eba-iwz2muyf.us-east-1.elasticbeanstalk.com/api/users]
 
 Technology && Tools
 -------------------
