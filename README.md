@@ -4,9 +4,9 @@ This is the spring web Rest Api deployed on AWS:
 
 Technology && Tools
 -------------------
-IDE: Spring tool Suite(STS)\n
-Database: Mysql(on Elastic beanstalk).
-deployment: AWS.
+1. IDE: Spring tool Suite(STS)\n
+2. Database: Mysql(on Elastic beanstalk).
+3. deployment: AWS.
 
-Persistence: Spring Data JPA.
+4. Persistence: Spring Data JPA.
 
