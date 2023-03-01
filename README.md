@@ -2,6 +2,8 @@
 
 This is the spring web Rest Api deployed on AWS:
 
+* Entity
+
 Technology && Tools
 -------------------
 1. IDE: Spring tool Suite(STS)
