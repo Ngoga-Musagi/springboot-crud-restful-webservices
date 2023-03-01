@@ -4,6 +4,7 @@ This is the spring web Rest Api deployed on AWS:
 
 * Entity [USER]
 * AWS API Link[http://springbootmysqlaws-env.eba-iwz2muyf.us-east-1.elasticbeanstalk.com/api/users]
+* API Structure(<p><a href="https://github.com/Ngoga-Musagi/springboot-crud-restful-webservices/blob/main/src/main/java/com/springboot/controller/UserController.java"></a>)
 
 Technology && Tools
 -------------------
@@ -12,4 +13,6 @@ Technology && Tools
 3. deployment: AWS.
 
 4. Persistence: Spring Data JPA.
+
+
 
